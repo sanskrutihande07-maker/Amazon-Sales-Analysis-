@@ -9,6 +9,11 @@ This project analyzes Amazon sales data using Power BI to identify sales trends,
 
 ![Dashboard Screenshot](Dashboard.png)
 
+## Business Objective
+To analyze Amazon sales performance and identify trends, customer behavior, and product insights for better buisness decision-making.
+
+## Dataset
+The dataset contains Amazon sales records including product categories, sales trends, customer reviews, and product performance metrics.
 
 ## Dashboard KPIs
 - YTD Sales: $2.18M
@@ -16,7 +21,7 @@ This project analyzes Amazon sales data using Power BI to identify sales trends,
 - Total Products Sold: 27.75K
 - YTD Reviews: 19.42M
 
-## Tools Used
+## Technologies Used
 - Power BI
 - Excel
 - Data Visualization
