@@ -18,14 +18,14 @@ This project analyzes Amazon sales data using Power BI to identify sales trends,
 - Data Visualization
 - Dashboard Design
 
+
 ## Dashboard Features
 - Sales by Month Analysis
-- Sales by Week Analysis
+- Weekly Sales Trends
 - Product Category Performance
-- Top 5 Products by Sales
-- Top 5 Products by Reviews
-- Interactive Filters
-
+- Top Products by Sales
+- Top Products by Reviews
+- Interactive Filters & Slicers
 ## Key Insights
 - Small outlet size generated highest sales
 - Customer review trends analyzed
