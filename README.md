@@ -1,4 +1,4 @@
-<img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/eb2a6af3-b821-44c6-9d9f-c056a638acfa" /><img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/2b228ba4-cf7a-4972-b605-94105abc704c" />
+<img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/eb2a6af3-b821-44c6-9d9f-c056a638acfa" />
 # Amazon Sales Analysis Dashboard using Power BI
 
 ![Dashboard Screenshot](Dashboard.png)
