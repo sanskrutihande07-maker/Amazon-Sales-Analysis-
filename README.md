@@ -1,7 +1,7 @@
-<img width="1326" height="743" alt="image" src="https://github.com/user-attachments/assets/eb2a6af3-b821-44c6-9d9f-c056a638acfa" />
+
 # Amazon Sales Analysis Dashboard using Power BI
 
-![Dashboard Screenshot](Dashboard.png)
+
 
 ## Project Overview
 This project analyzes Amazon sales data using Power BI to identify sales trends, product performance, and customer insights through interactive dashboards and visualizations.
