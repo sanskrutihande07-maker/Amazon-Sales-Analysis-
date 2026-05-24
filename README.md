@@ -6,6 +6,7 @@
 ## Project Overview
 This project analyzes Amazon sales data using Power BI to identify sales trends, product performance, and customer insights through interactive dashboards and visualizations.
 
+![Dashboard Screenshot](Dashboard.png)
 ## Dashboard KPIs
 - YTD Sales: $2.18M
 - QTD Sales: $811K
